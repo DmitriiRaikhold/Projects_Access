@@ -1,5 +1,3 @@
-{
-'PUBLIC': True,
-'SLG': True,
-'RED': False
-}
+PUBLIC: True,
+SLG: True,
+RED: False
