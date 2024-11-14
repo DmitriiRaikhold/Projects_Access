@@ -1,3 +1,4 @@
-PUBLIC: True
-SLG: True
-REDCO: False
+{
+'PUBLIC': True,
+'SLG': True,
+'REDCO': False
